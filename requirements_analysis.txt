@@ -1,0 +1,24 @@
+# 电商用户行为分析与精准营销项目依赖包
+
+# 数据处理
+pandas>=1.3.0
+numpy>=1.21.0
+
+# 机器学习
+scikit-learn>=1.0.0
+
+# 数据可视化
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# 中文图表
+pyecharts>=1.9.0
+
+# Jupyter环境
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 其他工具
+warnings
+datetime
